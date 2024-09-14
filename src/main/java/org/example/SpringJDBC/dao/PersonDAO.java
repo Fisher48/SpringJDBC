@@ -12,7 +12,7 @@ public class PersonDAO {
     private static int PEOPLE_COUNT;
     private static final String URL = "jdbc:mysql://localhost:3306/first_db_mysql";
     private static final String USERNAME = "Fisher48";
-    private static final String PASSWORD = "541763761Fisher";
+    private static final String PASSWORD = "";
 
     private static Connection connection;
 
